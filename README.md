@@ -1,9 +1,9 @@
 - 👋 I’m @manuel-orozco
 - 👀 I’m into tech, science and science fiction.
-- 🌱 I do Python, C++, HTML, CSS and JavaScript.
+- 🌱 I do Python, C++, AI/ML, and Computational Chemistry.
 - 💞️ I’m looking to collaborate on exciting projects!
-- 📫 See my portfolio: https://www.manuel-orozco.com
-- 📫 Find me on Linkedin: https://www.linkedin.com/in/juan-manuel-orozco-rodriguez-6362a5192/
+- 📫 See my portfolio: https://www.manuel-orozco.com (***Under construction***)
+- 📫 Find me on Linkedin: https://www.linkedin.com/in/manuel-orozco-rdz
 
 <!---
 manuel-orozco/manuel-orozco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
